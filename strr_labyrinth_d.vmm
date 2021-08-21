@@ -1,0 +1,14 @@
+Info
+{
+	"NextInternalID" "2"
+}
+Maps
+{
+	VMF
+	{
+		"Name" "unnamed"
+		"File" "strr_labyrinth_d.vmf"
+		"InternalID" "1"
+		"TopLevel" "1"
+	}
+}
